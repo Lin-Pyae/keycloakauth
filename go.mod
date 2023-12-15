@@ -1,4 +1,4 @@
-module github.com/Lin_Pyae/keycloakauth
+module github.com/Lin-Pyae/keycloakauth
 
 go 1.21.3
 
